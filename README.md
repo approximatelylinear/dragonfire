@@ -66,3 +66,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Notes
+UI components
+    - Character creator
+        - Actions 
+            - Update state
+            - Pass down everything else as state 
+
+        - Character Form
+            - Character input
+    - Character list
+    - Character Selector
+        - Character List 
+            - Character
+
+Data
+    - List of characters
+        - Character attributes
+    - Relationships
+    - Teams
+    - Battles
