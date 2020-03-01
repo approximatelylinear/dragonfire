@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  background-color: blue;
+}
+
+svg {
+  background-color: yellow;
+}
+
+.character {
+  background-color: #eee;
+}
